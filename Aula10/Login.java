@@ -9,7 +9,7 @@ public class Login {
   public static void main(String[] args) {
     User user = new User();
     Scanner sc = new Scanner(System.in);
-    HashMap
+    HashMap <String, String> users = new HashMap<String, String>();
 
     String user = args[0];
     String pass = args[1];

@@ -9,7 +9,7 @@ public class User {
         return this.user;
     }
 
-    public void setUser(String[] user) {
+    public void setUser(String user) {
         this.user = user;
     }
 }
