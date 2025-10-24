@@ -1,6 +1,6 @@
 package aula10;
 
-import controller.LoginController;
+import aula10.controller.Login;
 
 public class App {
     public static void main(String[] args) {
